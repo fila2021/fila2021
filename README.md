@@ -7,7 +7,6 @@
 [![GitHub fila2021](https://img.shields.io/github/followers/fila2021?label=follow&style=social)](https://github.com/fila2021)
 - 🌱 I’m Front End development student at Freecodecamp.org.
 - 👯 I’m looking to collaborate on any project.
-- 💬 Ask me about any thing, be sure I'll be genrous
 - 📫 How to reach me - Linkedin: ( https://www.linkedin.com/in/filmawit-mekonen/)
 
 ### Languages 💻 🌐
